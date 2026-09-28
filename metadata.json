@@ -1,0 +1,6 @@
+{
+  "name": "LearnToday - Active Courses & Video Learning Platform",
+  "description": "লগইন সিস্টেম এবং অ্যাক্টিভ কোর্স ভিডিও প্লেয়ার সম্বলিত পূর্ণাঙ্গ ই-লার্নিং পোর্টাল",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
